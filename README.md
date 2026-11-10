@@ -1,4 +1,3 @@
-I-5G-V2X-Data-Trans-Simulator
 
 ## 5G-V2X Simulators
 
